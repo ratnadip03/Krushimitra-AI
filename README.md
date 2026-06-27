@@ -11,7 +11,7 @@
 ![Gemini](https://img.shields.io/badge/AI-Gemini_API-4285F4?style=for-the-badge&logo=google)
 ![Offline AI](https://img.shields.io/badge/Offline-Qwen_2.5_0.5B-00C853?style=for-the-badge)
 
-**🏆 IEEE Internship 2026 • MIT-WPU Pune**
+**🏆 IEEE Internship 2026 • MIT Pune**
 
 **Team ShetkariRaja**
 
