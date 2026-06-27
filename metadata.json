@@ -1,0 +1,6 @@
+{
+  "name": "KrishiMitra AI",
+  "description": "An offline-first multilingual companion app for farmers featuring Soil & Crop Intelligence, Harvest Storage guides, Food Waste reduction models, and a centralized Farmer Profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
